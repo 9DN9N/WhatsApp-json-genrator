@@ -176,7 +176,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 🤖 SUBZERO STATUS
+## 🤖 ASHIF STATUS
 
 ```diff
 + Project Status: Active
